@@ -1,4 +1,4 @@
-**DOWNLOAD:** https://github.com/KingRich-larp/esx_rich_weed
+**FORUM:** https://forum.fivem.net/t/release-vrp-simple-police-menu-only-for-dev/887734
 
 ## Description
 This is a simple police menu for VRP. (Not tested)
